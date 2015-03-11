@@ -10,7 +10,6 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class PreferenceServlet
  */
-@WebServlet("/PreferenceServlet")
 public class PreferenceServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
